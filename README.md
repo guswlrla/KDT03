@@ -5,7 +5,7 @@
 + pnu40282	김종현 : https://github.com/runawaysheepkd/kdt03_html
 + pnu40283	김향자 : https://github.com/khhjj5298
 + pnu40284	김현지 : https://guswlrla.github.io/kdt-html-2025/
-+ pnu40285	박민규 : https://sujidaddy.github.io/workspace_html_css_js/
++ pnu40285	박민규 : https://github.com/sujidaddy/workspace_html_css_js
 + pnu40286	박진하 : https://github.com/scatch1228 
 + pnu40288	석동찬 : https://github.com/zodib0123
 + pnu40297	유효정 : https://github.com/ryuhyojeong-art
