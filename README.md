@@ -15,7 +15,6 @@
 + pnu40295	이해슬 :
 + pnu40291	이현지 : https://maybecocheon.github.io/kdt03_html/
 + pnu40292	최승하 : https://github.com/choiseungha3123-a11y
-+ pnu40293	최윤영 :
-+ pnu40294	황성훈 : https://github.com/carnelli95/kdt03_html
-
++ pnu40293	최윤영 : https://github.com/cy979
++ pnu40294	황성훈 : https://carnelli95.github.io/kdt03_html/ 
  
