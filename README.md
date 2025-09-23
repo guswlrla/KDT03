@@ -9,13 +9,11 @@
 + pnu40285	박민규 :
 + pnu40286	박진하 :
 + pnu40287	박호현 :
-+ pnu40288	석동찬 :
-
++ pnu40288	석동찬 :https://github.com/zodib0123
 + pnu40297	유효정 : https://github.com/ryuhyojeong-art
 + pnu40289	윤치형 : https://github.com/nx2803/kdt03_html
 + pnu40290	이동규 : https://github.com/eststar/
 + pnu40296	이예찬 : https://github.com/leeyc2014
-
 + pnu40295	이해슬 :
 + pnu40291	이현지 :https://maybecocheon.github.io/kdt03_html/
 + pnu40292	최승하 : https://github.com/choiseungha3123-a11y
