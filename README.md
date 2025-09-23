@@ -16,7 +16,7 @@
 + pnu40296	이예찬 :
 + pnu40295	이해슬 :
 + pnu40291	이현지 :
-+ pnu40292	최승하 :
++ pnu40292	최승하 : https://github.com/choiseungha3123-a11y
 + pnu40293	최윤영 :
 + pnu40294	황성훈 :
  
