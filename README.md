@@ -12,7 +12,7 @@
 + pnu40288	석동찬 :
 + pnu40297	유효정 :
 + pnu40289	윤치형 : https://github.com/nx2803/kdt03_html
-+ pnu40290	이동규 :
++ pnu40290	이동규 : https://github.com/eststar/
 + pnu40296	이예찬 :
 + pnu40295	이해슬 :
 + pnu40291	이현지 :https://maybecocheon.github.io/kdt03_html/
