@@ -5,7 +5,7 @@
 + pnu40280	김유찬 :
 + pnu40282	김종현 : https://github.com/runawaysheepkd/kdt03_html
 + pnu40283	김향자 :
-+ pnu40284	김현지 :
++ pnu40284	김현지 : https://guswlrla.github.io/kdt-html-2025/
 + pnu40285	박민규 :
 + pnu40286	박진하 :
 + pnu40287	박호현 :
