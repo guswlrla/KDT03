@@ -1,14 +1,12 @@
 # [K-Digital 부산대 25-3회차] AI 데이터 분석 풀스택 웹 개발자 양성과정 
-+ pnu40271	권경민 : https://github.com/Na-2509
-+ pnu40232	김명희 :
++ pnu40271	권경민 : https://github.com/Na-2509 
 + pnu40273	김유섭 : https://kiimyu.github.io/kdt03_html/html/index.html
 + pnu40280	김유찬 : https://kimyuchan-1.github.io/workspace_html_css_js/
 + pnu40282	김종현 : https://github.com/runawaysheepkd/kdt03_html
 + pnu40283	김향자 : https://github.com/khhjj5298
 + pnu40284	김현지 : https://guswlrla.github.io/kdt-html-2025/
 + pnu40285	박민규 : https://sujidaddy.github.io/workspace_html_css_js/
-+ pnu40286	박진하 : https://github.com/scatch1228
-+ pnu40287	박호현 :
++ pnu40286	박진하 : https://github.com/scatch1228 
 + pnu40288	석동찬 : https://github.com/zodib0123
 + pnu40297	유효정 : https://github.com/ryuhyojeong-art
 + pnu40289	윤치형 : https://github.com/nx2803/kdt03_html
